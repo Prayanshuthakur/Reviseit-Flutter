@@ -1,4 +1,4 @@
-# my_first_app
+# Reviseit AI
 
 A new Flutter project.
 
